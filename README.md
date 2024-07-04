@@ -2,7 +2,7 @@
 
 ## About Me
 
-’m currently working my blog website 
+I’m currently working my blog website 
 I’m looking to collaborate on projects involving deployment in cloud 
 I’m currently learning AI and ML  
 Ask me about Web Development
