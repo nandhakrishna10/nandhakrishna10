@@ -1,46 +1,38 @@
-## Hi there 👋
+# 💫 Hey Hi!! Nandhakrishna here!
 
-# Welcome to My GitHub Profile!
+## 👨‍💻 About Me
 
-![Profile Banner](https://avatars.githubusercontent.com/u/57743976?s=400&v=4)
+🔭 I’m currently working on Image processing  
+👯 I’m looking to collaborate on projects addressing Social causes  
+🌱 I’m currently learning AI and ML  
+💬 Ask me about Web Development
 
-## About Me
+## 🌐 Socials:
 
-Hi, I'm Nandha Krishna, a passionate full-stack developer with a strong focus on the MERN (MongoDB, Express.js, React.js, Node.js) stack. I love creating dynamic and responsive web applications, exploring new technologies, and contributing to open-source projects. My goal is to continuously learn and apply best practices in software development to build scalable and efficient applications.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandhakrishna10/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandhakrishna004@gmail.com)
 
-## Projects
+## 💻 Tech Stack:
 
-### [MERN Blog Website](https://github.com/nandhakrishna10/MERN-Blog-Website)
-A comprehensive blog application built using the MERN stack. This project features user authentication, CRUD operations for posts, and a sleek user interface designed with React.
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) 
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
-### [Clinic Management System](https://github.com/nandhakrishna10/Clinic-Management-System)
-A Python-based clinic management system designed to handle patient records, appointments, and billing efficiently.
+## 📊 GitHub Stats:
 
-### [Weather Forecasting System](https://github.com/nandhakrishna10/Weather-Forecasting-System)
-A JavaScript-based weather forecasting system that provides real-time weather updates and forecasts for various locations.
+![Nandhakrishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandhakrishna10&show_icons=true&theme=radical)
 
-### [AI-Based Image Enhancer](https://github.com/nandhakrishna10/AI-based-image-enhancer)
-A Python project that leverages AI to enhance the quality of images. This project demonstrates my interest and skills in machine learning and image processing.
+## 🔝 Top Contributed Repo
 
-### [ZipMan using Huffman Coding](https://github.com/nandhakrishna10/ZipMan-using-Huffman-Coding)
-An HTML-based project that implements Huffman coding for efficient data compression. This project showcases my understanding of data structures and algorithms.
-
-## Skills & Technologies
-
-- **Frontend:** React.js, Redux, HTML, CSS, JavaScript
-- **Backend:** Node.js, Express.js, MongoDB
-- **DevOps:** GitHub Actions, Docker, Continuous Integration/Continuous Deployment (CI/CD)
-- **Testing:** Jest, Mocha, Chai
-- **Version Control:** Git, GitHub
-
-## Contributions & Open Source
-
-I actively contribute to various open-source projects and participate in the GitHub community. My contributions span across improving documentation, fixing bugs, and adding new features to popular repositories. Engaging with the open-source community allows me to collaborate with other developers and stay updated with the latest trends and best practices in software development.
-
-## Get In Touch
-
-Feel free to explore my repositories and reach out if you have any questions, suggestions, or collaboration ideas. I'm always open to connecting with fellow developers and learning from the community.
-
-- [LinkedIn](https://www.linkedin.com/in/nandhakrishna10/)
-- [Email](mailto:nandhakrishna004@gmail.com)
-
+[![Top Contributed Repo](https://github-readme-stats.vercel.app/api/pin/?username=nandhakrishna10&repo=MERN-Blog-Website&theme=radical)](https://github.com/nandhakrishna10/MERN-Blog-Website)
