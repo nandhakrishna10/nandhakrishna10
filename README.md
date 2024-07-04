@@ -1,11 +1,7 @@
-# Hey Hi!! I am Nandha Krishna!
+# Hi there! I'm Nandha Krishna 👋
 
-## About Me
+Welcome to my GitHub profile! I'm passionate about image processing, AI/ML, and leveraging technology for social good. Explore my projects and let's connect!
 
-I’m currently working my blog website 
-I’m looking to collaborate on projects involving deployment in cloud 
-I’m currently learning AI and ML  
-Ask me about Web Development
 
 ## 🌐 Socials:
 
