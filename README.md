@@ -1,11 +1,11 @@
-# 💫 Hey Hi!! Nandhakrishna here!
+# Hey Hi!! Nandhakrishna here!
 
-## 👨‍💻 About Me
+## About Me
 
-🔭 I’m currently working on Image processing  
-👯 I’m looking to collaborate on projects addressing Social causes  
-🌱 I’m currently learning AI and ML  
-💬 Ask me about Web Development
+’m currently working my blog website 
+I’m looking to collaborate on projects involving deployment in cloud 
+I’m currently learning AI and ML  
+Ask me about Web Development
 
 ## 🌐 Socials:
 
