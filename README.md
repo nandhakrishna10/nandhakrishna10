@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nandha Krishna</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm passionate about full-stack development, AI/ML, and leveraging technology for social good. Explore my projects and let's connect!</h3>
+<h1 align="left">Hi 👋, I'm Nandha Krishna</h1>
+<h3 align="left">Welcome to my GitHub profile! I'm passionate about full-stack development, AI/ML, and leveraging technology for social good. Explore my projects and let's connect!</h3>
 
 - 🌱 I’m currently learning **Springboot**
 
